@@ -33,7 +33,7 @@ body {
 
 
 .container {
-    background-color: #2f628f; /* Blue card background */
+    background-color: #a53f66; /* New background color */
     color: #ffffff;
     border-radius: 20px;
     width: 90%;
@@ -42,6 +42,7 @@ body {
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
     text-align: center;
 }
+
 
 .header {
     font-size: 18px;
@@ -137,3 +138,4 @@ body {
 .map-wrapper .live_map:hover {
     background-color: #e63a3a;
 }
+
